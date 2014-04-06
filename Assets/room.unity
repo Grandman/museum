@@ -393,7 +393,7 @@ GameObject:
   - 65: {fileID: 50328912}
   - 23: {fileID: 50328911}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -734,7 +734,7 @@ GameObject:
   - 65: {fileID: 66654237}
   - 23: {fileID: 66654236}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1130,7 +1130,7 @@ GameObject:
   - 65: {fileID: 107803698}
   - 23: {fileID: 107803697}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1909,7 +1909,7 @@ GameObject:
   - 65: {fileID: 205491140}
   - 23: {fileID: 205491139}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2211,7 +2211,7 @@ GameObject:
   - 65: {fileID: 266071531}
   - 23: {fileID: 266071530}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2752,7 +2752,7 @@ GameObject:
   - 65: {fileID: 336379742}
   - 23: {fileID: 336379741}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2945,7 +2945,7 @@ GameObject:
   - 65: {fileID: 366636510}
   - 23: {fileID: 366636509}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3147,7 +3147,7 @@ GameObject:
   - 65: {fileID: 406733547}
   - 23: {fileID: 406733546}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3491,7 +3491,7 @@ GameObject:
   - 65: {fileID: 515691312}
   - 23: {fileID: 515691311}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3949,7 +3949,7 @@ GameObject:
   - 65: {fileID: 577168008}
   - 23: {fileID: 577168007}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4195,7 +4195,7 @@ GameObject:
   - 65: {fileID: 589705980}
   - 23: {fileID: 589705979}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4406,7 +4406,7 @@ GameObject:
   - 65: {fileID: 614527984}
   - 23: {fileID: 614527983}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4747,7 +4747,7 @@ GameObject:
   - 65: {fileID: 672818232}
   - 23: {fileID: 672818231}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5002,7 +5002,7 @@ GameObject:
   - 65: {fileID: 746841446}
   - 23: {fileID: 746841445}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5020,7 +5020,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 2f168603c71e0354fab9b067dd467d58, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -5635,7 +5635,7 @@ GameObject:
   - 65: {fileID: 861030795}
   - 23: {fileID: 861030794}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5704,7 +5704,7 @@ GameObject:
   - 65: {fileID: 864413456}
   - 23: {fileID: 864413455}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5951,7 +5951,7 @@ GameObject:
   - 65: {fileID: 913173623}
   - 23: {fileID: 913173622}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6150,7 +6150,7 @@ GameObject:
   - 65: {fileID: 920109013}
   - 23: {fileID: 920109012}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6277,7 +6277,7 @@ GameObject:
   - 65: {fileID: 921782413}
   - 23: {fileID: 921782412}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6488,7 +6488,7 @@ GameObject:
   - 65: {fileID: 942102245}
   - 23: {fileID: 942102244}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6703,7 +6703,7 @@ GameObject:
   - 65: {fileID: 960413346}
   - 23: {fileID: 960413345}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6920,7 +6920,7 @@ GameObject:
   - 65: {fileID: 990020065}
   - 23: {fileID: 990020064}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7164,7 +7164,7 @@ GameObject:
   - 65: {fileID: 1017002750}
   - 23: {fileID: 1017002749}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7402,7 +7402,7 @@ GameObject:
   - 65: {fileID: 1169109111}
   - 23: {fileID: 1169109110}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8907,7 +8907,7 @@ GameObject:
   - 65: {fileID: 1485668690}
   - 23: {fileID: 1485668689}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9398,7 +9398,7 @@ GameObject:
   - 65: {fileID: 1546001795}
   - 23: {fileID: 1546001794}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9512,7 +9512,7 @@ GameObject:
   - 65: {fileID: 1564471644}
   - 23: {fileID: 1564471643}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9723,7 +9723,7 @@ GameObject:
   - 65: {fileID: 1580310917}
   - 23: {fileID: 1580310916}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10006,7 +10006,7 @@ GameObject:
   - 65: {fileID: 1645750349}
   - 23: {fileID: 1645750348}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10308,7 +10308,7 @@ GameObject:
   - 65: {fileID: 1704061845}
   - 23: {fileID: 1704061844}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10435,7 +10435,7 @@ GameObject:
   - 65: {fileID: 1713649428}
   - 23: {fileID: 1713649427}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10802,7 +10802,7 @@ GameObject:
   - 65: {fileID: 1804999942}
   - 23: {fileID: 1804999941}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10871,7 +10871,7 @@ GameObject:
   - 65: {fileID: 1807642162}
   - 23: {fileID: 1807642161}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10940,7 +10940,7 @@ GameObject:
   - 65: {fileID: 1810102897}
   - 23: {fileID: 1810102896}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11260,7 +11260,7 @@ GameObject:
   - 65: {fileID: 1872861575}
   - 23: {fileID: 1872861574}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11445,7 +11445,7 @@ GameObject:
   - 65: {fileID: 1886648829}
   - 23: {fileID: 1886648828}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11694,7 +11694,7 @@ GameObject:
   - 65: {fileID: 1920339283}
   - 23: {fileID: 1920339282}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11763,7 +11763,7 @@ GameObject:
   - 65: {fileID: 1926147896}
   - 23: {fileID: 1926147895}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12258,6 +12258,7 @@ GameObject:
   - 114: {fileID: 2027594061}
   - 114: {fileID: 2027594060}
   - 114: {fileID: 2027594059}
+  - 114: {fileID: 2027594064}
   m_Layer: 0
   m_Name: First Person Controller
   m_TagString: Untagged
@@ -12380,6 +12381,17 @@ Transform:
   - {fileID: 576640}
   - {fileID: 1221425728}
   m_Father: {fileID: 0}
+--- !u!114 &2027594064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2027594058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b17441ca348da3d4daf78531cb1a9982, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2038054553
 GameObject:
   m_ObjectHideFlags: 0
@@ -12418,7 +12430,7 @@ GameObject:
   - 65: {fileID: 2038656072}
   - 23: {fileID: 2038656071}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12753,7 +12765,7 @@ GameObject:
   - 65: {fileID: 2087543869}
   - 23: {fileID: 2087543868}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13054,7 +13066,7 @@ GameObject:
   - 65: {fileID: 2123475594}
   - 23: {fileID: 2123475593}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13072,7 +13084,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 2f168603c71e0354fab9b067dd467d58, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -13239,7 +13251,7 @@ GameObject:
   - 65: {fileID: 2127963470}
   - 23: {fileID: 2127963469}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13257,7 +13269,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 2f168603c71e0354fab9b067dd467d58, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
