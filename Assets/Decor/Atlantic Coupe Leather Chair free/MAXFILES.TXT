@@ -1,0 +1,6 @@
+D:\up\05\t$m$p$$$\St_vol.01_05_chair.max
+D:\up\05\t$m$p$$$\MAXFILES.TXT
+D:\Stmodes\Stmodel_vol.01-10\maps\St_vol.01_05_leather_mask02.jpg
+D:\Stmodes\Stmodel_vol.01-10\maps\St_vol.01_05_metal_glossy.jpg
+D:\Stmodes\Stmodel_vol.01-10\maps\St_vol.01_05_leather_dif1.jpg
+D:\Stmodes\Stmodel_vol.01-10\maps\St_vol.01_05_leather_bump1.jpg
